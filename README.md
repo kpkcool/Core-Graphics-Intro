@@ -2,8 +2,9 @@
 
 
 
+![Simulator Screen Shot - iPhone 11 - 2022-10-10 at 16 58 07](https://user-images.githubusercontent.com/25403723/194856339-67869239-3128-4046-aadc-6139d842de3c.jpg)
 
-![simulator_screenshot_2B6F483B-FE70-45A8-93A7-2023C7405063](https://user-images.githubusercontent.com/25403723/194855671-bc9eb149-aede-458b-90fe-31caa9afedc5.png)
+
 
 
 Notes:
